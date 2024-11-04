@@ -3,5 +3,4 @@ First example of repository
 
 # Autor
 
-Juliano Palacios
-s
+Juliano Palacios Abrantes Eu
